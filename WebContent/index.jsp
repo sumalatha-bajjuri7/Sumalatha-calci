@@ -16,12 +16,12 @@
 
 <body>
   <div id="clouds">
-	<div class="cloud x1"></div>
+	<div class="Addition"></div>
 	<!-- Time for multiple clouds to dance around -->
-	<div class="cloud x2"></div>
-	<div class="cloud x3"></div>
-	<div class="cloud x4"></div>
-	<div class="cloud x5"></div>
+	<div class="Substraction"></div>
+	<div class="Multiplication"></div>
+	<div class="Division"></div>
+	
 </div>
 
  <div class="container">
